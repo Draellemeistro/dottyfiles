@@ -1,0 +1,6 @@
+- [ ] https://github.com/catgoose/nvim-colorizer.lua
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
